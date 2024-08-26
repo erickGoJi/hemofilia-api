@@ -1,0 +1,81 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "db_HemofiliaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "DBContext",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "dal.main.tecnicah",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "Name": "[dbo].[Calendar]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cat_ClaveDiagnostic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cat_Consultorio]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cat_OptionDiagnostic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cat_Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cat_Speciality]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Day]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Quiz]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Result]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Schedule]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "EC2AMAZ-UCFB368.db_hemofilia",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
